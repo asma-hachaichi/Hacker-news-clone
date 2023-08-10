@@ -1,0 +1,53 @@
+.container{
+    background-color: #f6f6ef;
+}
+
+h2{
+    text-align: center;
+}
+
+img{
+    width:15px;
+    height:15px;
+    margin-top: 20px;
+}
+
+.story{
+    height: 50px;
+}
+
+p{
+    height: 10px;
+}
+
+.head{
+    margin-top: 0%;
+    height:35px;
+    color: grey;
+}
+
+.info, .site, .enum{
+    color: grey;
+}
+
+.site{
+    text-decoration: underline;
+}
+
+.enum{
+    text-align: right;
+}
+
+.title{
+    display: flex;
+    height: 25px;
+}
+
+.info, .site{
+    font-size: small;
+}
+
+.site{
+    margin-top: 20px;
+    margin-left: 15px;
+}

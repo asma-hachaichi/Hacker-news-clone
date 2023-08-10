@@ -1,0 +1,16 @@
+.footer{
+    text-align: center;
+    background-color: #f6f6ef;
+    padding-bottom: 25px;
+}
+
+.line{
+    background-color: #ff6600;
+    height: 3px;
+}
+
+.menu-link{
+    font-size: smaller;
+    margin-left: 3px;
+    margin-right: 3px;
+}
