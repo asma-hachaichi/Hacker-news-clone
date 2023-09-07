@@ -4,20 +4,20 @@ A web application developed in React.js that serves as a clone of the Hacker New
 
 ## Features
 
-Two main pages: "New Stories" and "Top Stories"
-Story data fetched from the Hacker News API
-Static login interfaces for demonstration purposes
+Two main pages: "New Stories" and "Top Stories" <br />
+Story data fetched from the Hacker News API <br />
+Static login interfaces for demonstration purposes <br />
 
 ## Installation
 
-1 - Clone the repository to your local machine using git clone https://github.com/asma-hachaichi/hacker-news-clone.git
-2 - Navigate to the project directory: cd hacker-news-clone
-3 - Install the required dependencies: npm install
+1 - Clone the repository to your local machine using git clone https://github.com/asma-hachaichi/hacker-news-clone.git <br />
+2 - Navigate to the project directory: cd hacker-news-clone <br />
+3 - Install the required dependencies: npm install <br />
 
 ## Usage
 
-1 - Start the development server: npm start
-2 - Open your web browser and navigate to http://localhost:3000
+1 - Start the development server: npm start <br />
+2 - Open your web browser and navigate to http://localhost:3000 <br />
 
 ## Pages
 
@@ -35,5 +35,5 @@ These interfaces demonstrate the layout and design of potential login forms but 
 
 ## Acknowledgments
 
-The project is based on the Hacker News website (https://news.ycombinator.com/)
-Data is fetched using the Hacker News API (https://github.com/HackerNews/API)
+The project is based on the Hacker News website (https://news.ycombinator.com/) <br />
+Data is fetched using the Hacker News API (https://github.com/HackerNews/API) <br />
