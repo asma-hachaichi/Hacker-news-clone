@@ -10,7 +10,7 @@ Static login interfaces for demonstration purposes
 
 ## Installation
 
-1 - Clone the repository to your local machine using git clone https://github.com/your-username/hacker-news-clone.git
+1 - Clone the repository to your local machine using git clone https://github.com/asma-hachaichi/hacker-news-clone.git
 2 - Navigate to the project directory: cd hacker-news-clone
 3 - Install the required dependencies: npm install
 
